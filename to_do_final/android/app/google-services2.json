@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062312349415",
+    "firebase_url": "https://inprogressflutter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "inprogressflutter",
+    "storage_bucket": "inprogressflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062312349415:android:aa7524b4c48a62c6219c42",
+        "android_client_info": {
+          "package_name": "com.example.to_do_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062312349415-2us0eng5eg6iobh5ctk00c9i2q0mn0nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMki6jnA5sJKubUFUFqugojLlMnRB6Vqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062312349415-2us0eng5eg6iobh5ctk00c9i2q0mn0nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

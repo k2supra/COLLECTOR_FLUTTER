@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1039629825521-33a5a5koc5v3aah5sorig90ck5p0pva9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1039629825521-33a5a5koc5v3aah5sorig90ck5p0pva9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApKMh907RXxLDjbeZ3QrhaCW7J9NB98hI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1039629825521</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.to</string>
+	<key>PROJECT_ID</key>
+	<string>doneflutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doneflutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1039629825521:ios:f21739cc43867133a14050</string>
+	<key>DATABASE_URL</key>
+	<string>https://doneflutter-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

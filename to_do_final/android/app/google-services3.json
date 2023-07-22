@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039629825521",
+    "project_id": "doneflutter",
+    "storage_bucket": "doneflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039629825521:android:bd3f05161c361225a14050",
+        "android_client_info": {
+          "package_name": "com.example.to_do_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039629825521-dgn59kku9bjp0hs6vr9s7g0c0at8lq86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOOExamIpUc-HjDYMOJd9TgvqZJP3cdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039629825521-dgn59kku9bjp0hs6vr9s7g0c0at8lq86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
